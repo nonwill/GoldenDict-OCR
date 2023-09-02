@@ -1,5 +1,7 @@
 <h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR「<span style="color:#003B7A;">划词翻译</span>」</a></h2>
 
+![reading_on_macos](https://github.com/nonwill/nonwill.github.io/assets/46510529/cbcf7702-c683-469f-afb7-a02697a57615 "Reading Apple's Dictionary on macOS")
+
 0. built-in fixes for a large number of issues with the official version
 1. a simple plug-in mechanism added, based on which several OCR and audio playback engines plugged
 2. completely refactored all implementations to reduce runtime CPU and memory footprint, also query efficiency improved 
