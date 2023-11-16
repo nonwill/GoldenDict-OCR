@@ -1,5 +1,16 @@
 <h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR「<span style="color:#003B7A;">划词翻译</span>」</a></h2>
 
+More Demos:
+[Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT?t=0.0 "Session resume / 会话恢复")
+[Media](https://www.bilibili.com/video/BV1AQ4y1s7Vo?t=0.0 "Media file playing / 媒体文件播放支持")
+[Groups](https://www.bilibili.com/video/BV1dp4y1w75t?t=0.0 "Slim or normal Group box / 群组显示方式: 传统模式 和 紧凑模式")
+[Themes](https://www.bilibili.com/video/BV12j411U7rK?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")
+[OCR](https://www.bilibili.com/video/BV1Ab411X7aC?t=0.0 "OCR support / 划词翻译，OCR 引擎选择")
+[ScanFlag](https://www.bilibili.com/video/BV1Es4y1b7UU?t=0.0 "Word Picking by ScanFlag on Linux / Linux 系统取词")
+[OSX](https://www.bilibili.com/video/BV1WW4y1M7mR?t=0.0 "Apple's Dictionary support / 支持 苹果 Apple macOS 内置的词典")
+[PK①](https://www.bilibili.com/video/BV1kv4y1L7Cm?t=0.0 "HeadWord List PK/ 与其它版本性能对比① - 词汇表阅览")
+[PK②](https://www.bilibili.com/video/BV13N411v7kC?t=0.0 "Article View PK / 与其它版本性能对比② - 查询阅览")
+
 ![reading_on_macos](https://github.com/nonwill/nonwill.github.io/assets/46510529/cbcf7702-c683-469f-afb7-a02697a57615 "Reading Apple's Dictionary on macOS")
 
 0. built-in fixes for a large number of issues with the official version
