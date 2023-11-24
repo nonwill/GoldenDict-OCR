@@ -1,7 +1,7 @@
 <h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR「<span style="color:#003B7A;">划词翻译</span>」</a></h2>
 
 More Demos:
-[Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT?t=0.0 "Session resume / 会话恢复")
+[Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT?t=0.0 "Session resume / 会话恢复")/[Auto Session](https://www.bilibili.com/video/BV1xj41177y3?t=0.0 "Authentic Session resume / 自动会话")
 [Media](https://www.bilibili.com/video/BV1AQ4y1s7Vo?t=0.0 "Media file playing / 媒体文件播放支持")
 [Groups](https://www.bilibili.com/video/BV1dp4y1w75t?t=0.0 "Slim or normal Group box / 群组显示方式: 传统模式 和 紧凑模式")
 [Themes](https://www.bilibili.com/video/BV12j411U7rK?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")
