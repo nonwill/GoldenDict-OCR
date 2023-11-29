@@ -3,7 +3,7 @@
 More Demos:
 [Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT?t=0.0 "Session resume / 会话恢复")/[Auto Session](https://www.bilibili.com/video/BV1xj41177y3?t=0.0 "Authentic Session resume / 自动会话")
 [Media](https://www.bilibili.com/video/BV1AQ4y1s7Vo?t=0.0 "Media file playing / 媒体文件播放支持")
-[Groups](https://www.bilibili.com/video/BV1dp4y1w75t?t=0.0 "Slim or normal Group box / 群组显示方式: 传统模式 和 紧凑模式")
+[Groups](https://www.bilibili.com/video/BV1EN41177Lx?t=0.0 "Automatic Groups by Folder, Language and Type / 以目录、语言和类型对词典自动分组，一键创建群组")
 [Themes](https://www.bilibili.com/video/BV12j411U7rK?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")
 [OCR](https://www.bilibili.com/video/BV1Ab411X7aC?t=0.0 "OCR support / 划词翻译，OCR 引擎选择")
 [ScanFlag](https://www.bilibili.com/video/BV1Es4y1b7UU?t=0.0 "Word Picking by ScanFlag on Linux / Linux 系统取词")
