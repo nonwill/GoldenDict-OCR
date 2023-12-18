@@ -4,12 +4,11 @@ More Demos:
 [Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT?t=0.0 "Session resume / 会话恢复")/[Auto Session](https://www.bilibili.com/video/BV1xj41177y3?t=0.0 "Authentic Session resume / 自动会话")
 [Media](https://www.bilibili.com/video/BV1AQ4y1s7Vo?t=0.0 "Media file playing / 媒体文件播放支持")
 [Groups](https://www.bilibili.com/video/BV1EN41177Lx?t=0.0 "Automatic Groups by Folder, Language and Type / 以目录、语言和类型对词典自动分组，一键创建群组")
-[Themes](https://www.bilibili.com/video/BV12j411U7rK?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")
+Themes[①](https://www.bilibili.com/video/BV12j411U7rK?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")|[②](https://www.bilibili.com/video/BV1Yu4y1J7gc?t=0.0 "Theme or stylesheet / 主题 或 样式表 设置，可自由组配")
 [OCR](https://www.bilibili.com/video/BV1Ab411X7aC?t=0.0 "OCR support / 划词翻译，OCR 引擎选择")
 [ScanFlag](https://www.bilibili.com/video/BV1Es4y1b7UU?t=0.0 "Word Picking by ScanFlag on Linux / Linux 系统取词")
 [OSX](https://www.bilibili.com/video/BV1WW4y1M7mR?t=0.0 "Apple's Dictionary support / 支持 苹果 Apple macOS 内置的词典")
-[PK①](https://www.bilibili.com/video/BV1kv4y1L7Cm?t=0.0 "HeadWord List PK/ 与其它版本性能对比① - 词汇表阅览")
-[PK②](https://www.bilibili.com/video/BV13N411v7kC?t=0.0 "Article View PK / 与其它版本性能对比② - 查询阅览")
+PK[①](https://www.bilibili.com/video/BV1kv4y1L7Cm?t=0.0 "HeadWord List PK/ 与其它版本性能对比① - 词汇表阅览")|[②](https://www.bilibili.com/video/BV13N411v7kC?t=0.0 "Article View PK / 与其它版本性能对比② - 查询阅览")
 
 ![reading_on_macos](https://github.com/nonwill/nonwill.github.io/assets/46510529/cbcf7702-c683-469f-afb7-a02697a57615 "Reading Apple's Dictionary on macOS")
 
