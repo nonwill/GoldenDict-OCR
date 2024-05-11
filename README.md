@@ -1,6 +1,6 @@
 <h2 align="center" id="GDUTitle" class="fadebox"><a href="https://www.autoptr.top/gdocr/" style='text-decoration:none;color:chocolate;'>GoldenDict++OCR「<span style="color:#003B7A;">划词翻译</span>」</a></h2>
 
-More Demos:
+[More Demos](https://space.bilibili.com/3493095169592137/channel/series):
 [Sessions](https://www.bilibili.com/video/BV1Da4y1m7aT/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Session resume / 会话恢复")/[Auto Session](https://www.bilibili.com/video/BV1xj41177y3/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Authentic Session resume / 自动会话")
 Media[①](https://www.bilibili.com/video/BV1W1421Q7Mt/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Volume and Rate / 播放速度和音量调节")|[②](https://www.bilibili.com/video/BV1AQ4y1s7Vo/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Media file playing / 媒体文件播放支持")
 Groups[①](https://www.bilibili.com/video/BV1Pp42197gH/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Automatic Groups by Folder, Language and Type / 自动分组，快速排序")|[②](https://www.bilibili.com/video/BV1EN41177Lx/?share_source=copy_web&vd_source=1f8bb4f075a48414a935e9435e7a5b1a "Automatic Groups by Folder, Language and Type / 以目录、语言和类型对词典自动分组，一键创建群组")
