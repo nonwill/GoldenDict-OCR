@@ -19,14 +19,14 @@ PK[①](https://www.bilibili.com/video/BV1kv4y1L7Cm/?share_source=copy_web&vd_so
 
 <div align="center" style="margin-bottom:1px">
 <a href="https://space.bilibili.com/3493095169592137/lists/2849642?type=series" style="color:#7F0099;font-weight:bold;">演示视频</a> 
-<a href=""https://www.autoptr.top/gdocr/GoldenDict-OCR-Portable-Mode/" style="color:#7F0099;">便携模式</a> 
-<a href=""https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Audio-Players/" style="color:#7F0099;font-weight:bold;">音频引擎</a> 
-<a href=""https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Group-by-Folders/" style="color:#7F0099;">自动分组</a> 
-<a href=""https://www.autoptr.top/thankyou/" style="color:#7F0099;font-weight:bold;" title="Sponsor · Donations · 赞赏 · 捐赠 · 捐助" >💖</a> 
-<a href=""https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Reading-Mode/" style="color:#7F0099;">阅读模式</a> 
-<a href=""https://www.autoptr.top/gdocr/GoldenDict-OCR-Language-Settings/" style="color:#7F0099;font-weight:bold;">划词设置</a> 
-<a href=""https://www.autoptr.top/gdocr/GoldenDict-OCR-Free-Dictionaries/" style="color:#7F0099;">辞书分享</a> 
-<a href=""https://www.autoptr.top/gdocr/GoldenDict-OCR-Changelog/" style="color:#7F0099;font-weight:bold;" title="GoldenDict++ Changelog">更新日志</a> 
+<a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Portable-Mode/" style="color:#7F0099;">便携模式</a> 
+<a href="https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Audio-Players/" style="color:#7F0099;font-weight:bold;">音频引擎</a> 
+<a href="https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Group-by-Folders/" style="color:#7F0099;">自动分组</a> 
+<a href="https://www.autoptr.top/thankyou/" style="color:#7F0099;font-weight:bold;" title="Sponsor · Donations · 赞赏 · 捐赠 · 捐助" >💖</a> 
+<a href="https://www.autoptr.top/gdocr/en/GoldenDict-OCR-Reading-Mode/" style="color:#7F0099;">阅读模式</a> 
+<a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Language-Settings/" style="color:#7F0099;font-weight:bold;">划词设置</a> 
+<a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Free-Dictionaries/" style="color:#7F0099;">辞书分享</a> 
+<a href="https://www.autoptr.top/gdocr/GoldenDict-OCR-Changelog/" style="color:#7F0099;font-weight:bold;" title="GoldenDict++ Changelog">更新日志</a> 
 </div>
 
 <div align="center" style="margin:1px 10%">
