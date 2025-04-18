@@ -15,7 +15,7 @@ PK[①](https://www.bilibili.com/video/BV1kv4y1L7Cm/?share_source=copy_web&vd_so
 2. completely refactored all implementations to reduce runtime CPU and memory footprint, also query efficiency improved 
 3. the future goal is to abstract functional extensions and dictionary formats processing into complete plug-ins to further enhance the scalability and maintainability
 
-<img src="https://github.com/nonwill/GoldenDict-OCR/assets/46510529/89fd7bcb-2b31-497d-96b6-d6a1dbdad947" alt="ocr划词">
+<img width="1098" alt="sssss" src="https://github.com/user-attachments/assets/7da6f16c-a6e9-485f-863c-6ebffeb356a4" />
 
 <div align="center" style="margin-bottom:1px">
 <a href="https://space.bilibili.com/3493095169592137/lists/2849642?type=series" style="color:#7F0099;font-weight:bold;">演示视频</a> 
